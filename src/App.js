@@ -10,7 +10,7 @@ var emojiDictionary = {
   "🚲": "Bicycle",
   "🚤": "Speedboat",
   "🚁": "Helicopter",
-  "🚆": "Train"
+  "🚆": "Train",
 };
 var emojiWeKnow = Object.keys(emojiDictionary);
 
@@ -35,7 +35,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Emoji Interpreter</h1>
-      <input onChange={emojiInputHandler}></input>
+      <input placeholder="Enter emojii" onChange={emojiInputHandler}></input>
 
       <div style={{ fontSize: "larger", fontWeight: "bold", padding: "1rem" }}>
         {" "}
