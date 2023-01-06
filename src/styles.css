@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: teal;
+}
+input {
+  width: 20%;
+  height: 10vh;
+  border-radius: 1rem;
+}

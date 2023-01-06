@@ -1,2 +1,5 @@
 # emoji-interpreter
-Created with CodeSandbox
+Emoji interpreter app Created with CodeSandbox
+
+# languages
+HTML,CSS,javaScript,ReactJs
